@@ -1,1 +1,1 @@
-# my-pojects-spotify
+# my-projects-spotify
